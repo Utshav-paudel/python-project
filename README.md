@@ -8,8 +8,11 @@ I created band name generator in my first day of python using simple inputs and 
 
 
 ## Day 2 project
-### 1.Tip Calculator
+### 1. Tip Calculator
+
+![alt text](https://github.com/Peterpaudel/python-project/blob/0e960e8a9349e74736c53ca454b34fd63f3751e3/images/day2.3.png)
 In this project you can see the use cases of differernt data types of python like integer,float.
+
 Lets see data types in python in easy way:
 #### 1. Numeric data types :
     1.Integer
