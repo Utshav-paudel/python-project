@@ -12,12 +12,12 @@ I created band name generator in my first day of python using simple inputs and 
 In this project you can see the use cases of differernt data types of python like integer,float.
 Lets see data types in python in easy way:
 #### 1. Numeric data types :
- 1.Integer
- i.e 1,2,3,-5,100000
- 2.float 
- i.e 45.000,2.0,0.9
- 3.Complex
- i.e 1j
+    1.Integer
+     i.e 1,2,3,-5,100000
+    2.float 
+     i.e 45.000,2.0,0.9
+    3.Complex
+     i.e 1j
 #### 2. String data types :
 a.string 
 i.e "hello","ram"
