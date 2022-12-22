@@ -19,13 +19,13 @@ Lets see data types in python in easy way:
     3.Complex
      i.e 1j
 #### 2. String data types :
-a.string 
-i.e "hello","ram"
+    a.string 
+    i.e "hello","ram"
 #### 3. Sequence types :
-a.List 
-i.e x=[1,2,3,4],y=["ram","hari","ramesh"]
-b.Tuple
-i.e x=(1,2,3,4,5),y=("ram","hari","sita")
+    a.List 
+     i.e x=[1,2,3,4],y=["ram","hari","ramesh"]
+    b.Tuple
+     i.e x=(1,2,3,4,5),y=("ram","hari","sita")
 
 #### Difference between List and Tuples
 
@@ -36,11 +36,9 @@ i.e x=(1,2,3,4,5),y=("ram","hari","sita")
 
 
 #### 4. Binary types :
-a.bytes
-i.e x=b"ram" but x=f"ram" is a string
-b.bytearray
-i.e x=bytearray(5)
+       a.bytes
+       i.e x=b"ram" but x=f"ram" is a string
+       b.bytearray
+       i.e x=bytearray(5)
 # Update comming tomorrow
- 1.list
-    1.sublist
-    2.ok
+ 
