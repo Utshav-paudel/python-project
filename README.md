@@ -41,3 +41,7 @@ i.e x=b"ram" but x=f"ram" is a string
 b.bytearray
 i.e x=bytearray(5)
 # Update comming tomorrow
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
