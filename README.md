@@ -37,5 +37,7 @@ i.e x=(1,2,3,4,5),y=("ram","hari","sita")
 
 #### 4. Binary types :
 a.bytes
+i.e x=b"ram" but x=f"ram" is a string
 b.bytearray
-c.memory view
+i.e x=bytearray(5)
+# Update comming tomorrow
