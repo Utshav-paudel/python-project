@@ -45,6 +45,6 @@ Lets see data types in python in easy way:
        i.e x=bytearray(5)
 ### 2. BMI calculator
 
-[!alt text](https://github.com/Peterpaudel/python-project/blob/d39e5be1423fd36da0bdaa6db0185473d456e8fc/images/day2.2.png)
+![alt text](https://github.com/Peterpaudel/python-project/blob/d39e5be1423fd36da0bdaa6db0185473d456e8fc/images/day2.2.png)
 # Update comming tomorrow
  
