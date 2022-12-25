@@ -46,5 +46,9 @@ Lets see data types in python in easy way:
 ### 2. BMI calculator
 
 ![alt text](https://github.com/Peterpaudel/python-project/blob/d39e5be1423fd36da0bdaa6db0185473d456e8fc/images/day2.2.png)
+
+### 3. TIPS calculator
+
+![alt text](https://github.com/Peterpaudel/python-project/blob/1db331c17d7a638f7663a298628aef35cbce55ef/images/day2.3.png)
 # Update comming tomorrow
  
